@@ -23,5 +23,7 @@ https://github.com/Kanger79/HW_7.1_1/blob/5d808861d711ef78a9c46ea865aba82166e5e8
 ***
 # Окружение
 ***Операционная система:*** Windows 10
+
 ***IDE:*** IntelliJ IDEA 2023.1 (Community Edition)
+
 ***Java:*** OpenJDK 11
